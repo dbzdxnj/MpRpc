@@ -1,0 +1,4 @@
+21-17-35 => first log message!21-17-35 => /home/dbzdxnj/c++_project/mprpc/example/callee/userservice.cc: main: 4821-20-50 => first log message!
+21-20-50 => /home/dbzdxnj/c++_project/mprpc/example/callee/userservice.cc: main: 48
+21:22:12 => first log message!
+21:22:12 => /home/dbzdxnj/c++_project/mprpc/example/callee/userservice.cc: main: 48
